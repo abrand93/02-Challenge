@@ -1,0 +1,59 @@
+header {
+    background-color: darkslategray;
+    display: flex;
+   
+    padding: 20px;
+    justify-content:space-between;
+}
+
+  
+
+
+h1 {
+   
+    font-size: 200%;
+    background-color: rgb(4, 124, 84);
+    padding: 20px 0 0 0
+  
+
+}
+    
+
+h2 {
+    font-size: 180%;
+    margin: 0 50px 0 100px;
+    border-right: solid;
+    padding-right: 5px;
+  
+    
+  
+
+    
+}
+
+.nav-link {
+    margin: 5px ;
+}
+.header-photo {
+    height: 200px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../assets/background-3104413__340.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.about-Me,
+.work {
+    display: flex;
+}
+
+p {
+    margin-top: 5px;
+}
+    
+img {
+   border: solid; 
+}
+
+
