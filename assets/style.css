@@ -6,33 +6,25 @@ header {
     justify-content:space-between;
 }
 
-  
-
-
-h1 {
+  h1 {
    
     font-size: 200%;
     background-color: rgb(4, 124, 84);
     padding: 20px 0 0 0
-  
-
-}
-    
-
-h2 {
-    font-size: 180%;
-    margin: 0 50px 0 100px;
-    border-right: solid;
-    padding-right: 5px;
-  
-    
-  
-
-    
-}
-
+ }
+    h2 {
+        padding: 0 10px 0 0;
+        border-right:solid;
+        margin: 0  100px;
+        text-align: right;
+        font-size: 150%;
+        
+    }
 .nav-link {
     margin: 5px ;
+    font-size: 25pt;
+    color:black;
+    
 }
 .header-photo {
     height: 200px;
@@ -44,16 +36,35 @@ h2 {
 }
 
 .about-Me,
-.work {
+.work,
+footer {
     display: flex;
+    margin-top: 50px;
+    flex: 1;
+
+
+    
 }
 
 p {
-    margin-top: 5px;
+    margin: 10px 0 0 25px;
+    font-size: 16pt;
+    line-height: 1.5;
 }
     
 img {
-   border: solid; 
+   border: solid;
+   display:flex;
+   flex-direction: column; 
+   margin-top:5px;
+   justify-content: center;
+}
+.footer-ul {
+    display:flex;
+    justify-content:space-between;
+    gap: 2em
+    
+
 }
 
 
