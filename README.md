@@ -2,7 +2,7 @@
 
 ## Description
 
-I cread this portfolio to add the projects I have been working on since I started bootcamp. 
+I created this portfolio to add the projects I have been working on since I started bootcamp. 
 
 I built this project so I could show potenial employers all the projects I have done. 
 
