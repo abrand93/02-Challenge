@@ -19,4 +19,10 @@ Here is a screen shot of those images
 ![alt text](assets/Screenshots%20of%20project%20.png)
 
 
+
+
+
+
+Here is the link to the deployed page: https://abrand93.github.io/02-Challenge/
+
 Second-Challenge 
