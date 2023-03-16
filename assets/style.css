@@ -40,7 +40,7 @@ h2 {
 .header-photo {
     height: 200px;
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 0px;
     background-image: url("../assets/background-3104413__340.jpg");
     background-size: cover ;
     background-position: center;
@@ -68,12 +68,17 @@ p {
     display: flex;
 }
 
+.test{
+ display: flex; 
+
+}
+
 img {
     border: solid;
     display: flex;
-    flex-direction: column;
-    margin-top: 5px;
-    justify-content: center;
+    flex-direction: row;
+    margin-top: 
+  
 }
 
 .footer-ul {
